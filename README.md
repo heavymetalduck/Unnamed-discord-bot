@@ -1,10 +1,8 @@
-A discord bot made in python by a noob coder.
+A list of features to be implemented in the future
 
-[List of features to be implemented in the future]
+This list is not in any kind of order they are just gonna hopefully be implmented in the future.
 
-[This list is not in any kind of order they are just gonna hopefully be implmented in the future.]
-
-[If said feature is already implemented then it will have a check mark ("✅").]
+If said feature is already implemented then it will have a check mark ("✅").
 
 
 1.[Ban] 
