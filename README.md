@@ -1,10 +1,10 @@
 A discord bot made in python by a noob coder.
 
-[list of features to be implemented in the future]
+[List of features to be implemented in the future]
 
-[this list is not in any kind of order they are just gonna hopefully be implmented in the future]
+[This list is not in any kind of order they are just gonna hopefully be implmented in the future.]
 
-[If said feature is already implemented then it will have a check mark ("✅")]
+[If said feature is already implemented then it will have a check mark ("✅").]
 
 
 1.[Ban] 
@@ -21,4 +21,4 @@ A discord bot made in python by a noob coder.
 
 5.[Warning system for users before (Banning),(Kicking) or (Muting).]
 
-[I will think of more features to implement in the future]
+[If I think of any features to implement in the future I will add them here.]
