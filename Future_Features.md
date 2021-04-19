@@ -21,7 +21,7 @@ If said feature is already implemented then it will have a check mark ("✅").
 
 8.[All static variables to be stored in a single file]
 
-9.[Add a system that can be used for currency and warnings. Such system would store custom info for each user such as warnings to prevent a reset from happning.]
+9.[Add a system that can be used for currency and warnings. Such system would store custom info for each user such as warnings to prevent a reset from happning.]✅
 
 10.[Randomly changing presence]
 
