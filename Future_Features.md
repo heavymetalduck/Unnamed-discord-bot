@@ -29,5 +29,7 @@ If said feature is already implemented then it will have a check mark ("✅").
 
 12.[Mini games to put the currency system to use]
 
+13.[Error handler]
+
 
 [If I think of any features to implement in the future I will add them here.]
