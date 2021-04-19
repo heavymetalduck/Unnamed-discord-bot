@@ -26,4 +26,8 @@ If said feature is already implemented then it will have a check mark ("✅").
 10.[Randomly changing presence]
 
 11.[Randomly changing role colors]
+
+12.[Mini games to put the currency system to use]
+
+
 [If I think of any features to implement in the future I will add them here.]
